@@ -2,7 +2,7 @@
 
 <img src="./assets/Captura de tela 2025-03-09 215421.png"></img>
 
-<p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo um deles o Math.Radom . Utilzei linguagens como:</p>
+<p>Projeto concluído com sucesso! 🎉 O Sorteador de Números Online é uma ferramenta simples e eficiente que gera números aleatórios e os exibe na tela instantaneamente. Desenvolver esse projeto foi uma ótima experiência para aprimorar minhas habilidades em programação e lógica, tornando o sorteio de números rápido e interativo. Estou animado para continuar evoluindo e criando novas funcionalidades! Utilzei linguagens como:</p>
 <br>
 <ul>
 <li> 
