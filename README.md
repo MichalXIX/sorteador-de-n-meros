@@ -1,6 +1,6 @@
 <h1>Sorteador de Números</h1>
 
-<img src="./assets/imagem_de_dado_com_fundo-removebg-preview.png"></img>
+<img src="./assets/Captura de tela 2025-03-09 215421.png"></img>
 
 <p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo um deles o Math.Radom . Utilzei linguagens como:</p>
 <br>
